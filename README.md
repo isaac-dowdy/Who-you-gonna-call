@@ -2,7 +2,7 @@
 
 An interactive data visualization dashboard for exploring Cincinnati 311 non-emergency service requests — mapping visual disorder (dumping, graffiti, littering, tires, trash, and vacant buildings) across the city's neighborhoods.
 
-**[View Live Application](https://visual-disorder-in-cincinnati.vercel.app/)** &nbsp;|&nbsp; **[View Documentation](https://matthewgoldsberry.github.io/portfolio/projects/who-you-gonna-call/)**
+**[View Live Application](https://visual-disorder-in-cincinnati.vercel.app/)** &nbsp;|&nbsp; **[View Documentation](https://isaac-dowdy.github.io/vis2-who-you-gonna-call.html)**
 
 ---
 
